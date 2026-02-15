@@ -1,4 +1,5 @@
-# Milestone 1 - Data Cleaning Script
+# Weather Data Cleaning Script - Milestone 1
+
 import pandas as pd
 import numpy as np
 
