@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+primaryColor = "#800080"  # purple
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#000000"
+
+[server]
+# headless=false allows Streamlit to launch a local browser window automatically
+# set to true when running on a remote server without a UI
+headless = false
