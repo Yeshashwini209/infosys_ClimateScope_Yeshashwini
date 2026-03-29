@@ -1,1 +1,4 @@
-
+registered_users.json
+venv/
+__pycache__/
+*.pyc

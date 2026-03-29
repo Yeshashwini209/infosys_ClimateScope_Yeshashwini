@@ -6,3 +6,5 @@ scipy
 streamlit-lottie
 scikit-learn
 statsmodels
+reportlab
+kaleido
