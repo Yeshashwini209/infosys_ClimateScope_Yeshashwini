@@ -1,4 +1,4 @@
-import hashlib
+﻿import hashlib
 import json
 import os
 import secrets
@@ -191,7 +191,7 @@ def _inject_auth_styles():
     st.markdown(
         """
         <style>
-          /* Auth page: focus layout */
+          /* Auth page: focus layout ss */
           section[data-testid="stSidebar"] { display: none !important; }
           footer { visibility: hidden !important; height: 0 !important; }
           /* Vibrant full-page background (auth screen only) */
