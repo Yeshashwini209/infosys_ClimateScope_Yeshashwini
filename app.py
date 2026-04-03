@@ -1379,5 +1379,5 @@ for tab, (tab_name, features) in zip(tabs, feature_groups.items()):
 
 st.markdown("### ⬇ Download All Charts")
 data_export(filtered_df)
-
+print("new update")
 st.success("✅ ClimateScope Global Weather Intelligence System dashboard is ready. Adjust the sidebar filters to explore global weather insights in real time.")
